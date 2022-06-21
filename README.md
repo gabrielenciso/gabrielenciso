@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-<!--
-**gabrielenciso/gabrielenciso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielenciso)](https://github.com/gabrielenciso/github-readme-stats)
 
-Here are some ideas to get you started:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabrielenciso/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 📚 Stack - React, JavaScript, CSS3, HTML5, Node.js, Express.js, PostgreSQL
+- 🛠 Tools - Tailwind, NPM, Babel, Webpack, Git, Github, Slack, VS Code
+- 
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me 
+
+### How to Reach Me
+
