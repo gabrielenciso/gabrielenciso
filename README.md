@@ -9,5 +9,3 @@ My name is Gabriel and I am a full stack developer! I enjoy creating things from
 
 <a href='https://www.linkedin.com/in/gabrielenciso/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href='mailto: itsgabriel.enciso@gmail.com'>![khuu96@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href='https://github.com/gabrielenciso'>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a> 
 
-### My Stats
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielenciso&hide=contribs,stars&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
